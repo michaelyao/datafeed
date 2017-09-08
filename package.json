@@ -1,0 +1,23 @@
+{
+  "name": "datafeed",
+  "version": "1.0.0",
+  "description": "datafeed test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelyao/datafeed.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelyao/datafeed/issues"
+  },
+  "homepage": "https://github.com/michaelyao/datafeed#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4"
+  }
+}
